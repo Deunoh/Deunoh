@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+//TODO Remplir ce README
+
+En attendant, vous pouvez consulter mon profil LinkedIn ! https://www.linkedin.com/in/denovann/
+
 <!--
 **Deunoh/Deunoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
