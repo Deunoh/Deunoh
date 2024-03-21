@@ -1,3 +1,4 @@
+![Cover](https://github.com/Deunoh/Deunoh/blob/main/banner.png)
 ### Bienvenue ! 👋
 
 🌱 Actuellement en reconversion professionnelle dans le merveilleux monde du développement, je rêve de faire de cette nouvelle passion, mon métier.
