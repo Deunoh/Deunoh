@@ -1,7 +1,7 @@
 ![Cover](https://github.com/Deunoh/Deunoh/blob/main/banner1.png)
 ### Bienvenue ! 👋
 
-🚨 ## En recherche d'une alternance pour le titre de Concepteur développeur d'applications
+## 🚨 En recherche d'une alternance pour le titre de Concepteur développeur d'applications
 
 📌 Après 10 ans à travaillé dans le domaine de la 📦 logistique & transport 🚛, j'ai décidé de me reconvertir en développeur web. 
 Après avoir appris les bases du développement et un bilan de compétences afin d'assuré mon choix, je suis actuellement en formation pour obtenir le titre de
