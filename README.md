@@ -7,7 +7,7 @@ Après avoir appris les bases du développement et un bilan de compétences afin
 **Développeur web et web mobile**
 
 👨‍💻 ## Qui suis-je ?
-De nature curieux, je m'intéresse à beaucoup de domaines, ayant une affinité toute particulière avec l'informatique et la tech. 
+Curieux, je m'intéresse à beaucoup de domaines, ayant une affinité toute particulière avec l'informatique et la tech. 
 Dans la vie professionnelle et personnelle, je suis une personne calme, déterminé et de bonne humeur ! 😄 
 
 
