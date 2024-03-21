@@ -1,4 +1,3 @@
-![Cover](https://github.com/Deunoh/Deunoh/blob/main/banner1.png)
 ### Bienvenue ! 👋
 
 ## 🚨 En recherche d'une alternance pour le titre de Concepteur développeur d'applications
