@@ -25,4 +25,4 @@ Dans la vie professionnelle et personnelle, je suis une personne calme, détermi
 💻 🔗 Mon portfolio https://denovann.tech/  
 
 
-
+<a href="https://app.daily.dev/deunoh"><img src="https://api.daily.dev/devcards/v2/4K79uPzfEYlfrk5Rtk7Hx.png?type=default&r=v1g" width="356" alt="Deunoh's Dev Card"/></a>
