@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Qui suis-je ?
 Curieux, je m'intéresse à beaucoup de domaines, ayant une affinité toute particulière avec l'informatique et la tech. 
-Dans la vie professionnelle et personnelle, je suis une personne calme, déterminé et de bonne humeur ! 😄 
+Dans la vie professionnelle et personnelle, je suis une personne calme, curieux, déterminé et de bonne humeur ! 😄 
 
 
 # HARD SKILLS
