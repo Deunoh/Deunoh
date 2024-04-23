@@ -1,6 +1,6 @@
 ### Bienvenue ! 👋
 
-## 🚨 En recherche d'une alternance pour le titre de Concepteur développeur d'applications
+## 🚨 En recherche d'une alternance pour le titre de Concepteur développeur d'applications => septembre 2024
 
 📌 Après 10 ans dans le domaine de la 📦 logistique & transport 🚛, j'ai réalisé un bilan de compétences pour enfin, me reconvertir dans les domaines qui me passionnent, internet, l'informatique et la tech. Le métier de développeur web est devenu une évidence. Aujourd’hui , je suis en formation pour obtenir le titre de **Développeur web et web mobile**  au sein de l'école O'clock.
 
