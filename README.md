@@ -1,6 +1,6 @@
 ### Bienvenue ! 👋
 
-📌 Après 10 ans dans le domaine de la 📦 logistique & transport 🚛, j'ai réalisé un bilan de compétences pour enfin, me reconvertir dans les domaines qui me passionnent, internet, l'informatique et la tech. Le métier de développeur web est devenu une évidence. Aujourd’hui , je suis en formation pour obtenir le titre de **Développeur web et web mobile**  au sein de l'école O'clock.
+📌 Après 10 ans dans le domaine de la 📦 logistique & transport 🚛, j'ai réalisé un bilan de compétences pour enfin, me reconvertir dans les domaines qui me passionnent, internet, l'informatique et la tech. Le métier de développeur web est devenu une évidence. Aujourd’hui , j'ai obtenu le titre professionnel développeur web et web mobile après avoir suivi une formation avec l'école O'clock.
 
 ## 👨‍💻 Qui suis-je ?
 Curieux, je m'intéresse à beaucoup de domaines, ayant une affinité toute particulière avec l'informatique et la tech. 
