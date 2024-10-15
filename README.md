@@ -20,7 +20,7 @@ Dans la vie professionnelle et personnelle, je suis une personne calme, curieux,
 # 📫 Contact 
 💬 🔗 Mon profil LinkedIn ! https://www.linkedin.com/in/denovann/  
 📧 🔗 Mon e-mail denovann4@gmail.com  
-💻 🔗 Mon portfolio https://denovann.tech/  
+💻 🔗 Mon portfolio https://denovann.fr/  
 
 
 <a href="https://app.daily.dev/deunoh"><img src="https://api.daily.dev/devcards/v2/4K79uPzfEYlfrk5Rtk7Hx.png?type=default&r=v1g" width="356" alt="Deunoh's Dev Card"/></a>
