@@ -1,11 +1,7 @@
 ### Bienvenue ! 👋
 
-📌 Après 10 ans dans le domaine de la 📦 logistique & transport 🚛, j'ai réalisé un bilan de compétences pour enfin, me reconvertir dans les domaines qui me passionnent, internet, l'informatique et la tech. Le métier de développeur web est devenu une évidence. Aujourd’hui , j'ai obtenu le titre professionnel développeur web et web mobile après avoir suivi une formation avec l'école O'clock.
-
 ## 👨‍💻 Qui suis-je ?
-Curieux, je m'intéresse à beaucoup de domaines, ayant une affinité toute particulière avec l'informatique et la tech. 
-Dans la vie professionnelle et personnelle, je suis une personne calme, curieux, déterminé et de bonne humeur ! 😄 
-
+Je ne suis pas un expert, juste un gars curieux, qui aime la tech :) 
 
 # HARD SKILLS
 ## Frontend
@@ -19,8 +15,7 @@ Dans la vie professionnelle et personnelle, je suis une personne calme, curieux,
 
 # 📫 Contact 
 💬 🔗 Mon profil LinkedIn ! https://www.linkedin.com/in/denovann/  
-📧 🔗 Mon e-mail denovann4@gmail.com  
-💻 🔗 Mon portfolio https://denovann.fr/  
+💻 🔗 Mon portfolio https://denovann.fr/ (Plus dispo !)
 
 
 <a href="https://app.daily.dev/deunoh"><img src="https://api.daily.dev/devcards/v2/4K79uPzfEYlfrk5Rtk7Hx.png?type=default&r=v1g" width="356" alt="Deunoh's Dev Card"/></a>
